@@ -28,7 +28,7 @@ R2 Test: 0.7464744699494363
 
 Linear Regression didn't gave such good score so we tried Random Forest,
 
-Random Forest: **bold text**
+Random Forest: 
 
 RMSPE Train: 0.0068497492138425665
 
