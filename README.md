@@ -52,4 +52,4 @@ R2 Train: 0.9999986463543659
 
 R2 Test: 0.9203746412500768
 
-To compare the Accuracy among different regression models, RMSE is a better option as it is simple to calculate and differentiable.So, after comparing RMSE and RMSPE values it is evident that Random Forest Regressor is the best performer. 
+To compare the Accuracy among different regression models, RMSPE is a better option as it is simple to calculate and differentiable.So, after comparing RMSPE and R2 values it is evident that Random Forest Regressor is the best performer. 
